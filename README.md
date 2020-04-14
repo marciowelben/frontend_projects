@@ -6,10 +6,9 @@ This repository was created as an online guide to help other people with some im
 
 [![license](https://img.shields.io/github/license/marciowelben/frontend_projects.svg)](/license)
 
-| Source                                                                                               | Author                                              | Description                                                                                                                          | Stack              | Git |
-| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | --- |
-| [Dribbble](https://dribbble.com/shots/11036108-Luxury-places-booking/attachments/2631175?mode=media) | [Maxim Synyava](https://dribbble.com/maxim_synyava) | Conceptual design for R•lax web app. With R•lax you can find, inspire and book luxury apartments in beautiful places over the world. | React + TypeScript | -   |
-
+| Source                                                                                               | Author                                              | Description                                                                                                                          | Stack              | Git                                                              |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ---------------------------------------------------------------- |
+| [Dribbble](https://dribbble.com/shots/11036108-Luxury-places-booking/attachments/2631175?mode=media) | [Maxim Synyava](https://dribbble.com/maxim_synyava) | Conceptual design for R•lax web app. With R•lax you can find, inspire and book luxury apartments in beautiful places over the world. | React + TypeScript | [Code ->](https://github.com/marciowelben/luxury-places-booking) |
 
 ## License
 
